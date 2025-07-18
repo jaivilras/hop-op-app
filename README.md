@@ -2,7 +2,7 @@
 
 A modern, full-featured rideshare application built with React, TypeScript, and Tailwind CSS. HopOn connects community members for shared transportation, offering both ride-sharing and ride-requesting capabilities.
 
-![HopOn Preview](public/placeholder.svg)
+
 
 ## ✨ Features
 
